@@ -33,12 +33,10 @@ After installing, restart Codex or reload the pet picker if the new pet does not
 ## Install From A Fresh Clone
 
 ```bash
-git clone <repo-url> songi-pet
+git clone https://github.com/ianchadson/songi-pet.git
 cd songi-pet
 ./install.sh
 ```
-
-Replace `<repo-url>` with the URL of this repository after you publish it.
 
 ## Manual Install
 
