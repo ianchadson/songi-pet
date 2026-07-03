@@ -8,6 +8,14 @@ This repository contains a Codex custom pet package:
 - `spritesheet.webp`
 - `install.sh`
 
+## Preview
+
+![Songi preview on a dark background](previews/dark-preview-sheet.png)
+
+![Songi preview on a light background](previews/light-preview-sheet.png)
+
+![Songi animation contact sheet](previews/contact-sheet.png)
+
 ## Install
 
 From this repository:
